@@ -1,7 +1,7 @@
 # About
 Kohonen's Self Organizing Maps (SOM) are a form of artificial neural nets which utilize different neighborhood functions to preserve the topological properties of the input space on a `n x n` grid.
 
-This module provides bare bones pythonic based implementations of these variants. 
+This module provides bare bones pythonic implementations of these variants. 
 
 
 ### Usage
