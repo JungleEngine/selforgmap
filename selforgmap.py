@@ -107,5 +107,4 @@ class SOMSupervised(object):
                 neighbors = self.get_neighbors(bmu, n_nghbs)
                 self.update_nodes(neighbors, item, label, bmu)
                 t += 1
-
         return
