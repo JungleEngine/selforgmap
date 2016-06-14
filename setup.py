@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name = 'selforgmap',
   packages = ['selforgmap'],
-  version = '0.2',
+  version = '0.3',
   description = 'self organizing maps',
   author = 'Saifuddin Abdullah',
   author_email = 'saif.778@gmail.com',
