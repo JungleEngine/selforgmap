@@ -10,7 +10,7 @@ Install using `pip install -U selforgmap`
 ### Usage
 
 ##### Generic SOM:
-This implementation takes just input dataspace unsupervised training:
+This implementation takes just input dataspace for unsupervised training:
 ```python
 from selforgmap.selforgmap import SOM
 n = 10 #to create a 10 x 10 grid
