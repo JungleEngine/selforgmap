@@ -6,7 +6,6 @@ from decay import Decay
 from distances import Distances
 from neighborhoods import square_
 
-
 class SOMSupervised(object):
     """the standard supervised version of som operating on voting principles"""
 
